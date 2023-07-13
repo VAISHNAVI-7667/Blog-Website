@@ -1,0 +1,4 @@
+to create react app - npx create-react-app frontend
+
+To change color of the app bar
+<AppBar sx={{background:'green'}}>
